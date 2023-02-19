@@ -7,6 +7,8 @@ __Όνομα__: Γεώργιος-Κωνσταντίνος Ζαχαρόπουλο
 Υλοποίηση σε C++ η προσομοίωση ενός παιχνιδιού ρόλων (role playing game). Το παιχνίδι
 έχει αντικείμενα, ξόρκια, ήρωες και τέρατα. Η εργασία έγινε στο πλαίσιο του μαθήματος Κ10 Object Oriented Programming ως τελικό project.
 
+[Εκφώνηση Εργασίας](https://github.com/KonstantinosZach/RolePlayingGame/blob/main/OOPproj_2021.pdf)
+
 #### Screenshots από το παιχνίδι
 
 #### Map
