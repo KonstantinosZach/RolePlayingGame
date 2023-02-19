@@ -9,6 +9,23 @@ __Όνομα__: Γεώργιος-Κωνσταντίνος Ζαχαρόπουλο
 
 #### Screenshots από το παιχνίδι
 
+#### Map
+<p align="center">
+  <img src="screenshots/frame1.png" />
+</p>
+
+#### Shop
+<p align="center">
+  <img src="screenshots/frame2.png"/> 
+  <img src="screenshots/frame3.png"/>
+</p>
+
+#### Fight
+<p align="left">
+  <img src="screenshots/frame4.png"/>
+  <img src="screenshots/frame5.png" width="400"/>
+</p>
+
 #### Εκτέλεση προγράμματος
 Για να εκτελέσετε το πρόγραμμα ανοίξτε τον φάκελο `/programs` και εκτελέστε την εντολή `make run`. Μπορείτε να τρέξετε και `make valgrind` για να ελέγξετε για leaks και `make clean` για να διαγράψετε τα εκτελέσιμα.
 
